@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentMigrator.Runner" Version="3.3.1" />
+      <PackageReference Include="Npgsql" Version="5.0.10" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Categories.BLL\Categories.BLL.csproj" />
+      <ProjectReference Include="..\Categories.Core\Categories.Core.csproj" />
+      <ProjectReference Include="..\Categories.DAL\Categories.DAL.csproj" />
+    </ItemGroup>
+
+</Project>

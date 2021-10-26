@@ -1,0 +1,15 @@
+F:\Programming\AliExpressTestTask\Categories.BLL\bin\Debug\net5.0\Categories.BLL.deps.json
+F:\Programming\AliExpressTestTask\Categories.BLL\bin\Debug\net5.0\Categories.BLL.dll
+F:\Programming\AliExpressTestTask\Categories.BLL\bin\Debug\net5.0\ref\Categories.BLL.dll
+F:\Programming\AliExpressTestTask\Categories.BLL\bin\Debug\net5.0\Categories.BLL.pdb
+F:\Programming\AliExpressTestTask\Categories.BLL\bin\Debug\net5.0\Categories.Core.dll
+F:\Programming\AliExpressTestTask\Categories.BLL\bin\Debug\net5.0\Categories.Core.pdb
+F:\Programming\AliExpressTestTask\Categories.BLL\obj\Debug\net5.0\Categories.BLL.csprojAssemblyReference.cache
+F:\Programming\AliExpressTestTask\Categories.BLL\obj\Debug\net5.0\Categories.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\AliExpressTestTask\Categories.BLL\obj\Debug\net5.0\Categories.BLL.AssemblyInfoInputs.cache
+F:\Programming\AliExpressTestTask\Categories.BLL\obj\Debug\net5.0\Categories.BLL.AssemblyInfo.cs
+F:\Programming\AliExpressTestTask\Categories.BLL\obj\Debug\net5.0\Categories.BLL.csproj.CoreCompileInputs.cache
+F:\Programming\AliExpressTestTask\Categories.BLL\obj\Debug\net5.0\Categories.BLL.csproj.CopyComplete
+F:\Programming\AliExpressTestTask\Categories.BLL\obj\Debug\net5.0\Categories.BLL.dll
+F:\Programming\AliExpressTestTask\Categories.BLL\obj\Debug\net5.0\ref\Categories.BLL.dll
+F:\Programming\AliExpressTestTask\Categories.BLL\obj\Debug\net5.0\Categories.BLL.pdb

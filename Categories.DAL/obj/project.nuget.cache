@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "B037ff/hR0Dr80H5dIm23WR/80HKtJ8oc+sXb3P92b/WyfhHZVDwZ+GLQHsNCFNaom/8OvduUkL4MUs6VvFTRg==",
+  "success": true,
+  "projectFilePath": "F:\\Programming\\AliExpressTestTask\\Categories.DAL\\Categories.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\fluentmigrator\\3.3.1\\fluentmigrator.3.3.1.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\fluentmigrator.abstractions\\3.3.1\\fluentmigrator.abstractions.3.3.1.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.0.0\\microsoft.extensions.dependencyinjection.2.0.0.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\microsoft.extensions.options\\2.0.1\\microsoft.extensions.options.2.0.1.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\ZAKHAR\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
