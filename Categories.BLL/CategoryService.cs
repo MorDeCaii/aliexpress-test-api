@@ -68,6 +68,12 @@ namespace Categories.BLL
 
         public async Task<bool> Update(CategoryUpdateDto category)
         {
+            var parent = await _categoryRepository.GetByIdAsync(category.ParentId);
+            if (parent == null)
+            {
+                return false;
+            }
+            
             var row = new Category()
             {
                 Id = category.Id,
