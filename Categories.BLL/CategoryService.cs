@@ -30,8 +30,13 @@ namespace Categories.BLL
         public async Task<CategoryReadDto> GetById(int id)
         {
             var categories = await _categoryRepository.GetByIdWithSubcategories(id);
-
+            
             var category = categories.FirstOrDefault(c => c.Id == id);
+            if (category == null)
+            {
+                return null;
+            }
+            
             var result = new CategoryReadDto
             {
                 Id = id,
